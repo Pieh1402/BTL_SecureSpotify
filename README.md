@@ -52,7 +52,7 @@ cd SecureSpotify
 python app.py
 ```
 
-- Ứng dụng sẽ chạy ở địa chỉ: http://localhost:4000
+- Ứng dụng sẽ chạy ở địa chỉ: http://192.168.0.109:4000/
 
 ### 3. Sử dụng
 
